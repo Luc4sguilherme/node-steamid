@@ -19,6 +19,7 @@
 	"dependencies": {
 		"cuint": "^0.2.1"
 	},
+	"typings": "./index.d.ts",
 	"scripts": {
 		"test": "node test.js"
 	}
